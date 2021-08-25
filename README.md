@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lqtoan
+<b - 👋 Hi, I’m @lqtoan/>
 - 👀 I’m interested in Arch linux & tiling window manager
 
 #### Connect with me: ####
