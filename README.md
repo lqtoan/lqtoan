@@ -3,7 +3,7 @@
 
 #### Connect with me: ####
 
-<a href="https://www.facebook.com/lqtoann/"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" height="25" width="35" color="blue" /></a>
+<a href="https://www.facebook.com/lqtoann/"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" height="25" width="35" /></a>
 <a href="https://www.instagram.com/lqtoan.archlinux/"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" height="25" width="35" /></a>
 
 <!---
