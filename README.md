@@ -1,4 +1,4 @@
-<b font-size="150%"> Hi, I’m @lqtoan </b>
+<h2> Hi, I’m @lqtoan </h2>
 - 👀 I’m interested in Arch linux & tiling window manager
 
 #### Connect with me: ####
