@@ -1,5 +1,7 @@
 <h2> Hi, I’m @lqtoan </h2>
-<p>- 👀 I’m interested in Arch linux & tiling window manager</p><br>
+<p>- 👀 I’m interested in Arch linux & tiling window manager</p>
+
+![21-09-03-105502_screenshot](https://user-images.githubusercontent.com/89382043/131948978-673b4e78-2ca8-4bd6-846a-a7d73ac7a449.jpg)
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lqtoan&show_icons=true&locale=en&theme=nord" alt="lqtoan" />
