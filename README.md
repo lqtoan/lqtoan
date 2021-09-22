@@ -19,3 +19,5 @@
 ![21-09-22-142703_screenshot](https://user-images.githubusercontent.com/89382043/134371908-e1f3fb76-3c33-4881-b999-f8238e701ef1.jpg)
 
 
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lqtoan&show_icons=true&locale=en&layout=compact&theme=nord" alt="lqtoan" />
+</p>
