@@ -4,6 +4,10 @@
 
 <b> Connect with me: </b> <a href="https://www.facebook.com/lqtoann/"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" height="25" width="35" /></a> <a href="https://www.instagram.com/lqtoan.archlinux/"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" height="25" width="35" /></a>
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=lqtoan&show_icons=true&locale=en&layout=compact&theme=nord" alt="lqtoan" />
+</p>
+
+
 ### My Archlinux & Qtile
 
 ![21-09-22-143449_screenshot](https://user-images.githubusercontent.com/89382043/134371568-9a1e4bed-b57f-454f-9bcd-784ef23a35d5.jpg)
@@ -19,5 +23,3 @@
 ![21-09-22-142703_screenshot](https://user-images.githubusercontent.com/89382043/134371908-e1f3fb76-3c33-4881-b999-f8238e701ef1.jpg)
 
 
- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lqtoan&show_icons=true&locale=en&layout=compact&theme=nord" alt="lqtoan" />
-</p>
