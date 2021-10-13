@@ -3,8 +3,10 @@
 <p>- I'm currently learning (Neo)vim</p>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lqtoan&show_icons=true&locale=en&layout=compact&theme=nord" alt="lqtoan" />
 </p>
-<b> Connect with me: </b> <a href="https://www.facebook.com/lqtoann/"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" height="25" width="35" /></a> <a href="https://www.instagram.com/leq_toan/"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" height="25" width="35" /></a>
-
+<p> Connect with me:
+&nbsp; <a href="https://facebook.com/lqtoann" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/doodle/128/000000/facebook-new.png" width="24" /></a>
+&nbsp; <a href="https://facebook.com/leq_toan" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/doodle/96/000000/instagram-new.png" width="24" /></a>
+</p>
 <h3>My Archlinux & Qtile</h3>
 
 ![21-10-06-221134_screenshot](https://user-images.githubusercontent.com/89382043/136232380-6cc88839-b2d2-46c2-bae3-a54e8cec98fc.jpg)
