@@ -1,11 +1,11 @@
-# Hi, I’m @lqtoan
+<h1>Hi, I’m @lqtoan</h1>
 <p>- I’m interested in (Arch)linux & (Qtile) tiling window manager</p>
 <p>- I'm currently learning (Neo)vim</p>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lqtoan&show_icons=true&locale=en&layout=compact&theme=nord" alt="lqtoan" />
 </p>
 <b> Connect with me: </b> <a href="https://www.facebook.com/lqtoann/"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" height="25" width="35" /></a> <a href="https://www.instagram.com/leq_toan/"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" height="25" width="35" /></a>
 
-### My Archlinux & Qtile
+<h3>My Archlinux & Qtile</h3>
 
 ![21-10-06-221134_screenshot](https://user-images.githubusercontent.com/89382043/136232380-6cc88839-b2d2-46c2-bae3-a54e8cec98fc.jpg)
 
