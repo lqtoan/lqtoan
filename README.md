@@ -1,6 +1,6 @@
 # Hi, I’m @lqtoan
-<p>- I’m interested in (Arch)linux & (Qtile) tiling window manager</p>
-<p>- I'm currently learning (Neo)vim</p>
+<p>- I’m interested in Arch linux, Neovim configuration and Frontend Develope skills</p>
+<p>- I'm currently learning Angular, python</p>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lqtoan&show_icons=true&locale=en&layout=compact&theme=nord" alt="lqtoan" />
 </p>
 <p> Connect with me:
