@@ -5,7 +5,7 @@
 </p>
 <p> Connect with me:
 &nbsp; <a href="https://facebook.com/lqtoann" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/doodle/128/000000/facebook-new.png" width="24" /></a>
-&nbsp; <a href="https://instagram.com/leq_toan" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/doodle/96/000000/instagram-new.png" width="24" /></a>
+&nbsp; <a href="https://www.instagram.com/archlinux_user" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/doodle/96/000000/instagram-new.png" width="24" /></a>
 &nbsp; <a href="https://twitter.com/lequoc_toan" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/doodle/96/000000/twitter.png" width="24" /></a>
 </p>
 
