@@ -3,7 +3,7 @@
 <p>- I'm currently learning Angular, Typescript, Python</p>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lqtoan&show_icons=true&locale=en&layout=compact&theme=nord" alt="lqtoan" />
 </p>
-<h3> Connect with me (Vietnamese, English):
+<h3> Connect me (Vietnamese, English):
 &nbsp; (<a href="https://facebook.com/lqtoann" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/doodle/128/000000/facebook.png" width="36" /></a>usually online)
 &nbsp; (<a href="https://www.instagram.com/archlinux_user" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/doodle/96/000000/instagram.png" width="36" /></a>
 &nbsp; <a href="https://twitter.com/lequoc_toan" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/doodle/96/000000/twitter.png" width="36" /></a>uncommonly online)
