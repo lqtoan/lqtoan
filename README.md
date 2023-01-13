@@ -1,7 +1,6 @@
 # Hi, I’m @lqtoan
 <p>- I’m interested in Arch linux, Shell script, Neovim configuration and Frontend skills.</p>
 <p>- I'm currently learning Angular, Typescript and ExpressJS.</p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=lqtoan&show_icons=true&locale=en&layout=compact&theme=nord" alt="lqtoan" />
 
 ## My Archlinux & Qtile
   
