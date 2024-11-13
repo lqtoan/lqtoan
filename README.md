@@ -1,6 +1,9 @@
 # Hi, I’m @lqtoan
-<p>- I’m interested in Arch linux, Shell script, Neovim configuration and Frontend skills.</p>
-<p>- I'm currently learning Angular, Typescript and ExpressJS.</p>
+<p>I am an experienced Angular developer with a strong background in building scalable, user-friendly web applications. In addition to my technical expertise, I am the owner of a Chinese learning website, where I apply my passion for language and culture. This unique experience has allowed me to develop and manage a platform that provides valuable educational resources to learners. My combined skills in web development and content creation enable me to bring innovative solutions to complex challenges.
+</p>
+
+## Super Chinese
+https://superchinese01.web.app/
 
 ## My Archlinux & Qtile
   
